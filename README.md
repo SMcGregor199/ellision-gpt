@@ -22,7 +22,9 @@ It is not a substitute for Ellison’s words—but a means of listening differen
 Here are a few questions to get started with the Companion:
 
 1. **How does Ellison use musical structure—particularly jazz and blues—as a framework for narrative form in *Invisible Man*?**  
+
 2. **How does Ellison use invisibility as both a literal condition and a metaphor for social erasure in *Invisible Man*?**
+
 3. **What role does memory—both personal and collective—play in shaping the narrator’s identity throughout *Invisible Man*?**
 
 ---
@@ -41,11 +43,11 @@ This project is intended for educational and literary use. Not affiliated with t
 
 ---
 
-## 📚 Citation Use & Scholarly Attribution
+## 📚 Use & Citation Notice
 
-All sources listed in this project are cited for educational and critical purposes only. They are referenced to support interpretation and discussion within the GPT’s responses and are not used for commercial gain or model training.
+All sources listed in this project are cited for educational and interpretive purposes only. They are used to support discussion, analysis, and literary understanding within the GPT’s responses. This project is non-commercial and the cited materials are not used for model training.
 
-If you are the author of a cited work and would prefer not to have your scholarship included, please feel free to reach out to me at [shaynemcgregor1@gmail.com](shaynemcgregor1@gmail.com). I will promptly remove it from the dataset upon request.
+If you are the author of a cited work, or a rights holder of Ralph Ellison’s published materials, and would prefer not to have your work referenced, please feel free to reach out to me at [shaynemcgregor1@gmail.com](mailto:shaynemcgregor1@gmail.com). I will promptly remove it from the dataset upon request.
 
 ---
 
