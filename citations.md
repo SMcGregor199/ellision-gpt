@@ -1,0 +1,3 @@
+## Ralph Ellison – Academic Citations
+1. Butts, J. J. “Pattern and Chaos: Ralph Ellison and the Federal Writers’ Project.” American Studies, vol. 54, no. 3, 2015, pp. 35–49. JSTOR, http://www.jstor.org/stable/24589534. Accessed 14 Apr. 2025.
+2. Devlin, Paul. “Ralph Ellison’s Acoustic Stereoscope: Reading Invisible Man through Günther Anders’s Phenomenology of Music.” The Journal of the Midwest Modern Language Association, vol. 55, no. 2, 2022, pp. 65–96. JSTOR, https://www.jstor.org/stable/48765672. Accessed 14 Apr. 2025.
