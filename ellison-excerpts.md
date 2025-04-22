@@ -1,3 +1,19 @@
+# Ralph Ellison – Curated Excerpts
+
+This file contains a curated selection of short, fair-use excerpts from the essays and fiction of Ralph Ellison.
+
+Each excerpt is formatted with:
+- A `###` header noting the essay or work and excerpt number
+- A blockquote of the excerpt itself
+- A lightweight citation referencing the *Collected Essays of Ralph Ellison* (Modern Library, 2011, Kindle edition)
+- A list of thematic tags for searchability and GPT-based redirection
+
+These excerpts are used by the **Ralph Ellison Companion GPT** to provide literary analysis, philosophical interpretation, and scholarly redirection.
+
+**All excerpts are chosen for educational and interpretive use** and are attributed with care. This file does not contain complete essays or chapters.
+
+For full citations and source tracking, see `citations.md`.
+
 ### "The World and the Jug" – Excerpt 1
 
 > "First, three questions: Why is it so often true that when critics confront the American as *Negro*
