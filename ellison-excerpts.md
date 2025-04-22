@@ -21,7 +21,7 @@ For full citations and source tracking, see `citations.md`.
 > literature so far below politics and ideology that they would rather kill a novel than modify their
 > presumptions concerning a given reality which it seeks in its own terms to project? Finally, why 
 > is it that so many of those who would tell us the meaning of Negro life never bother to learn how
-> varied it really is?"
-- Ralph Ellison, “The World and the Jug,” in *The Collected Essays of Ralph Ellison*, ed. John F.Callahan, Modern Library, 2011. Kindle edition.
+> varied it really is?" - Ralph Ellison, “The World and the Jug,” in *The Collected Essays of Ralph 
+> Ellison*, ed. John F.Callahan, Modern Library, 2011. Kindle edition.
 
 **Tags:** `#irvinghowe` `#richardwright` `#jamesbaldwin` `#literarycriticism` `#blackliterature` `#1960s` `#thenewleader` `#identity` `#ideology` `#race` `#americancriticism`
