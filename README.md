@@ -27,16 +27,42 @@ Here are a few questions to get started with the Companion:
 
 3. **What role does memory—both personal and collective—play in shaping the narrator’s identity throughout *Invisible Man*?**
 
+4. **What is the main theme of *Invisible Man***?
+
+5. **How did Ralph Ellison influence American literature?**
+
+6. **Can you analyze this passage from *Invisible Man***
+
+7. **What were Ellison's views on race and identity?**
+
 ---
 
 ## 📁 Repo Contents
 
 - `instructions.md`: Prompt logic and tone guidelines for the GPT  
 - `citations.md`: Curated list of scholarly sources (MLA format)  
+- `sample-prompts.md`: Demonstration of expected GPT behavior across question types  
 - `README.md`: Overview of the project  
+
 
 ---
 
+## 🧪 Sample Prompts (Why They Matter)
+
+The `sample-prompts.md` file contains curated examples of how Ellison GPT responds to different kinds of questions—interpretive, comparative, and redirection-based. These samples:
+
+- Reinforce the GPT’s tone, boundaries, and citation style  
+- Serve as reference points for quality assurance and prompt refinement  
+- Showcase the project’s ethos: to support inquiry without oversimplifying Ellison’s thought  
+
+Example prompt:
+> **What does Ellison mean by invisibility?**  
+> → GPT returns an excerpt-grounded reflection on social erasure, identity, and literary metaphor.
+
+These examples ensure the GPT responds with care, context, and critical attention to language.
+
+
+---
 ## ✨ License & Use
 
 This project is intended for educational and literary use. Not affiliated with the Ellison estate.
