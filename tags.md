@@ -1,6 +1,6 @@
 # Tag Index
 
-A list of all thematic tags used in `ellison-excerpts.md` with frequency counts.
+A list of all thematic tags used in `ellison-excerpts.md`
 
 - `#1960s`  
 - `#aesthetics`  
