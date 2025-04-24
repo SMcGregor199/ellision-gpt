@@ -31,8 +31,8 @@ For full citations and source tracking, see `citations.md`.
 > "Wright believed in the much abused idea that novels are "weapons"—the counterpart of the dreary notion, common
 > among most minority groups, that novels are instruments of good public relations. But I believe that true
 > novels, even when most pessimistic and bitter, arise out of an impulse to celebrate human life and therefore
-> are ritualistic and ceremonial at their core. Thus they would preserve as they destroy, affirm as they reject. 
-> -"Ralph Ellison, “The World and the Jug”, in *The Collected Essays of Ralph 
+> are ritualistic and ceremonial at their core. Thus they would preserve as they destroy, affirm as they reject." 
+> -Ralph Ellison, “The World and the Jug”, in *The Collected Essays of Ralph 
 > Ellison*, ed. John F.Callahan, Modern Library, 2011. Kindle edition.
 
 **Tags:** `#protestliterature` `#richardwright` `#literarycriticism` `#blackliterature` `#ideology` `#identity` `#1960s`
@@ -61,6 +61,33 @@ For full citations and source tracking, see `citations.md`.
 
 **Tags:** `#underground` `#invisibility` `#identity` `#blackliterature` `#illumination` `#sabotage` `#technology`
 
+### *Invisible Man* – Excerpt 3
+>"There is a certain acoustical deadness in my hole, and when I have music I want to *feel* its
+> vibration, not only with my ear but with my whole body. I'd like to hear five recordings of Louis Armstrong
+> playing and singing "What Did I Do to Be so Black and Blue" -- all at the same time. Sometimes now I listen
+> to Louis while I have my favorite dessert of vanilla ice cream and sloe gin. I pour the red liquid over
+> the white mound, watching it glisten and the vapor rising as Louis bends that military instrument 
+> into a beam of lyrical sound. Perhapes I like Louis Armstrong because he's made poetry out of
+> being invisible. I think it must be because he's unaware that he *is* invisible. And my own grasp of
+> invisibility aids me to understand his music." — Ralph Ellison, "Prologue," *Invisible Man*, 
+> Modern Library, 1995. Kindle edition.
+
+**Tags:** `#invisibility` `#jazz` `#blackmusic` `#embodiment` `#perception` `#prologue` `#louisarmstrong` `#whatdididotobesoblackandblue` `#aesthetics` `#invisibleman`
+
+### *Invisible Man* – Excerpt 4
+
+>"It's so long ago and far away that here in my invisibility I wonder if it happened at all. The in my mind's
+> eye I see the bronze statute of the college Founder, the cold Father symbol, his hands outstretched in the 
+> breathtaking gesture of lifting a veil that flutters in hard, metallic folds above the face of a kneeling 
+> slave; and I am standing puzzled, unable to decide whether the veil is really being lifted, or lowered
+> more firmly in place; wheter I am witnessing a revelation or a more efficient blinding. And as I gaze,
+> there is a rustle of wings and I see a flock of starlings flighting before me and, when I look again,
+> the bronze face, whose empty eyes look upon a world I have never see, runs with liquid chalk -- 
+> creating another ambiguity to puzzle my groping mind: Why is a bird-soiled statue more commanding
+> than one that is clean?" — Ralph Ellison, "Chapter 2," *Invisible Man*, Modern Library, 1995. Kindle edition.
+
+**Tags:** `#invisibility` `#institution` `#veil` `#symbolism` `#ambivalence` `#memory` `#founder` `#slavery` `#chapter2` `#blackliterature` `#myth`
+
 ### "The Shadow and the Act" – Excerpt 1
 
 > "We are recalling all this not so much as a means of indicting Hollywood as by way of placing 
@@ -74,7 +101,25 @@ For full citations and source tracking, see `citations.md`.
 > emotional, economic, and political, which we label Jim Crow. The anti-Negro image is a ritual
 > object of which Hollywood is not the creator, but the manipulator. Its role has been that of 
 > justifying the widely held myth of Negro unhumanness and inferiority by offering entertaining
-> rituals through which that myth could be reaffirmed. - Ralph Ellison, “The Shadow and the Act”, in 
+> rituals through which that myth could be reaffirmed." - Ralph Ellison, “The Shadow and the Act”, in 
 > *The Collected Essays of Ralph Ellison*, ed. John F.Callahan, Modern Library, 2011. Kindle edition.
 
 **Tags:** `#race` `#ideology` `#identity` `#blackliterature` `#americancriticism` `#1960s` `#myth` `#ritual` `#media` `#representation` 
+
+### "The Shadow and the Act" – Excerpt 2
+
+> After Reconstruction the political question of what was to be done with Negroes, "solved" by the 
+> Hayes-Tilden deal of 1876, came down to the psychological question: "How can the Negro's Humanity
+> be evaded?" The problem, arising in a democracy that holds all men as created equal, was a highly
+> moral one; democratic ideals had to be squared with anti-Negro practices. One answer was to 
+> *deny* the Negro's humanity, a pattern set long before 1915. But with the release of 
+> *The Birth of a Nation* the propagation of subhuman images of Negroes became financially and 
+> deramatically profitable. The Negro as scapegoat could be sold as entertainment; it could even be exported.
+> If the film became tha main manipulator of the American dream, for Negroes that dream contained a strong dose
+> of such stuff as nightmares are made of."  - Ralph Ellison, “The Shadow and the Act”, in 
+> *The Collected Essays of Ralph Ellison*, ed. John F.Callahan, Modern Library, 2011. Kindle edition.
+
+**Tags:** `#thebirthofanation` `#americanideals` `#democracy` `#media` `#racialmyth` `#representation`
+`#blackhumanity` `#shadowandtheact` `#scapegoat` `#americancriticism`
+
+
