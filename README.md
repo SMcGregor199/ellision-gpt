@@ -43,7 +43,7 @@ Here are a few questions to get started with the Companion:
 - `citations.md`: Curated list of scholarly sources (MLA format)  
 - `sample-prompts.md`: Demonstration of expected GPT behavior across question types  
 - `README.md`: Overview of the project  
-
+- `tags.md`: Alphabetized list of all thematic tags used in excerpt metadata
 
 ---
 
