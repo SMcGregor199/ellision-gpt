@@ -1,0 +1,51 @@
+# Tag Index
+
+A list of all thematic tags used in `ellison-excerpts.md` with frequency counts.
+
+- `#1960s`  
+- `#aesthetics`  
+- `#ambivalence`  
+- `#americancriticism`  
+- `#americanideals`  
+- `#blackhumanity`  
+- `#blackliterature`  
+- `#blackmusic`  
+- `#chapter2`  
+- `#democracy`  
+- `#embodiment`  
+- `#erasure`  
+- `#founder`  
+- `#identity`  
+- `#ideology`  
+- `#illumination`  
+- `#institution`  
+- `#invisibility`  
+- `#invisibleman`  
+- `#irvinghowe`  
+- `#jamesbaldwin`  
+- `#jazz`  
+- `#literarycriticism`  
+- `#louisarmstrong`  
+- `#media`  
+- `#memory`  
+- `#metaphysics`  
+- `#myth`  
+- `#perception`  
+- `#prologue`  
+- `#protestliterature`  
+- `#race`  
+- `#racialmyth`  
+- `#representation`  
+- `#richardwright`   
+- `#ritual`  
+- `#sabotage`  
+- `#scapegoat`  
+- `#shadowandtheact`  
+- `#slavery`  
+- `#symbolism`  
+- `#technology`  
+- `#thebirthofanation`  
+- `#thenewleader`  
+- `#underground`  
+- `#veil`  
+- `#whatdididotobesoblackandblue`  
