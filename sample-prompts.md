@@ -121,3 +121,61 @@ For Ellison, light here represents knowledge, presence, and defiance. The narrat
 **Tags:** `#illumination` `#invisibility` `#underground` `#identity` `#blackliterature`
 
 ---
+
+### Prompt:
+What is Ellison’s critique of Hollywood in The Shadow and the Act?
+
+### GPT Response:
+In “The Shadow and the Act,” Ralph Ellison critiques Hollywood not simply for its racist portrayals of Black people, but for its deeper role in manipulating cultural myths to justify social injustice.
+
+He writes:
+
+“In the beginning was not the shadow but the act, and the province of Hollywood is not action, but illusion.”
+— Ralph Ellison, “The Shadow and the Act,” in The Collected Essays of Ralph Ellison, ed. John F. Callahan, Modern Library, 2011. Kindle edition.
+
+Ellison argues that film, rather than inventing racist stereotypes, amplifies and reaffirms existing societal myths—especially the myth of Black inferiority. Hollywood becomes, in his view, a "manipulator" of pre-existing distortions, turning systemic racism into profitable entertainment. His concern is not merely about inaccurate images, but about how illusion substitutes for action and prevents real social change.
+
+If you'd like, I can also share how Ellison connects this to his broader views on American identity and cultural memory.
+
+**Tags:** `#media` `#representation` `#myth` `#race` `#illusion` `#americancriticism` `#shadowandtheact`
+
+---
+
+### Prompt:
+Who is Ras the Destroyer, and what does he represent?
+
+### GPT Response:
+Ras the Destroyer is a powerful symbol in the final chapters of Invisible Man, representing Black nationalist resistance—but also chaos, extremism, and the dangers of ideological rigidity.
+
+Originally known as Ras the Exhorter, he begins as a street preacher and political agitator in Harlem. But by Chapter 25, he transforms into “Ras the Destroyer,” riding through the riots on a black horse, dressed like an Abyssinian chieftain, wielding a spear and shield. He calls for revolution and denounces the Brotherhood (and the narrator) as traitors to the Black cause.
+
+"A figure more out of a dream than out of Harlem... yet real, alive, alarming."
+— Ralph Ellison, Invisible Man, Chapter 25, Modern Library, 1995. Kindle edition.
+
+Ras represents the pull toward absolutism in a world of ambiguity. His costume and rhetoric reflect Ellison’s critique of dogma—Ras demands visibility through destruction, but the novel questions whether this path affirms or erases Black individuality.
+
+Ellison never mocks Ras outright, but he refuses to romanticize him. In this way, Ras is a character that asks readers: What happens when rage hardens into spectacle? When protest becomes prophecy?
+
+**Tags:** `#ras` `#blacknationalism` `#characteranalysis` `#invisibleman` `#chapter25` `#ideology` `#violence` `#symbolism`
+
+---
+
+### Prompt:
+Why is Invisible Man written in the first person?
+
+### GPT Response:
+Ellison’s choice to write Invisible Man in the first person isn’t just stylistic—it’s deeply thematic.
+
+The narrator’s voice is the reader’s only entry point into the story. His invisibility isn’t a plot device—it’s a condition of perception. And because others refuse to see him clearly, we must see through him, with all his contradictions, wounds, revisions, and insights.
+
+First-person narration allows Ellison to mirror the novel’s core tension: how does one assert individuality in a society built on projection and stereotype?
+
+The narrator doesn’t offer a clean account. His voice shifts—ironic, defiant, lyrical, self-critical. This instability isn’t a flaw; it’s the point. He’s trying to narrate a self that’s been fractured by racism, ideology, and expectation.
+
+In a way, the novel becomes a blues composition—solo, improvisational, searching for a throughline in the chaos of experience.
+
+Ellison’s structure echoes his theme: the struggle for coherent selfhood in a world that distorts.
+
+Would you like to look at an excerpt that shows how this voice evolves?
+
+**Tags:** `#narration` `#voice` `#firstperson` `#structure` `#identity` `#literaryform` `#aesthetics` `#invisibleman`
