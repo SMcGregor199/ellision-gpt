@@ -47,7 +47,7 @@ For full citations and source tracking, see `citations.md`.
 > me they see only my surroundings, themselves, or figments of their imagination -- indeed, everything
 > and anything except me." — Ralph Ellison, "Prologue," *Invisible Man*, Modern Library, 1995. Kindle edition.
 
-**Tags:** `#invisibility` `#perception` `#race` `#erasure` `#metaphysics` `#identity` `##prologue` 
+**Tags:** `#invisibility` `#perception` `#race` `#erasure` `#metaphysics` `#identity` `#prologue` 
 
 ### *Invisible Man* – Excerpt 2
 
@@ -88,6 +88,17 @@ For full citations and source tracking, see `citations.md`.
 
 **Tags:** `#invisibility` `#institution` `#veil` `#symbolism` `#ambivalence` `#memory` `#founder` `#slavery` `#chapter2` `#blackliterature` `#myth`
 
+### *Invisible Man* – Excerpt 5
+
+>"THEY moved in a tight-knit order, carrying sticks and clubs, shotguns and rifles, led by Ras the Exhorter 
+> become Ras the Destroyer upon a great black horse. A new Ras of a haughty, vulgar dignity, dressed in the 
+> costume of an Abyssinian chieftain; a fur cap upon his head, his arm bearing a shield, a cape made of the 
+> skin of some wild animal around his shoulders. A figure more out of a dream than out of Harlem, than out of 
+> even this Harlem night, yet real, alive, alarming" — Ralph Ellison, "Chapter 25," *Invisible Man*, Modern 
+> Library, 1995. Kindle edition.
+
+**Tags:** `#ras` `#chapter25` `#identity` `#symbolism` `#violence` `#blacknationalism` `#costume` `#dreamlogic` `#invisibleman` `#harlem` `#crisis`
+
 ### "The Shadow and the Act" – Excerpt 1
 
 > "We are recalling all this not so much as a means of indicting Hollywood as by way of placing 
@@ -108,7 +119,7 @@ For full citations and source tracking, see `citations.md`.
 
 ### "The Shadow and the Act" – Excerpt 2
 
-> After Reconstruction the political question of what was to be done with Negroes, "solved" by the 
+> "After Reconstruction the political question of what was to be done with Negroes, "solved" by the 
 > Hayes-Tilden deal of 1876, came down to the psychological question: "How can the Negro's Humanity
 > be evaded?" The problem, arising in a democracy that holds all men as created equal, was a highly
 > moral one; democratic ideals had to be squared with anti-Negro practices. One answer was to 
@@ -122,4 +133,13 @@ For full citations and source tracking, see `citations.md`.
 **Tags:** `#thebirthofanation` `#americanideals` `#democracy` `#media` `#racialmyth` `#representation`
 `#blackhumanity` `#shadowandtheact` `#scapegoat` `#americancriticism`
 
+### "Richard Wright's Blues" – Excerpt 1
 
+> "The blues is an impulse to keep the painful details and episodes of a brutal experience alive in one's 
+> aching consciousness, to finger its jagged grain, and to transcend it, not by the consolation of 
+> philosophy but by squeezing from it a near-tragic, near-comic lyricism. As a form, the blues is an 
+> autobiographical chronicle of personal catastrophe expressed lyrically. And certainly Wright's early 
+> childhood was crammed with catastrophic incidents" - Ralph Ellison, “Richard Wright's Blues”, in 
+> *The Collected Essays of Ralph Ellison*, ed. John F.Callahan, Modern Library, 2011. Kindle edition.  
+
+**Tags:**  `#blues` `#aesthetics` `#autobiography` `#trauma` `#blackmusic` `#lyricism` `#richardwright` `#literarycriticism` `#emotion` `#transcendence` `#influence`
