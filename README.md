@@ -84,5 +84,11 @@ If you are the author of a cited work, or a rights holder of Ralph Ellison’s p
 
 ---
 
+## 🤝 Contributing
+
+We welcome thoughtful contributions!  
+If you're interested in helping expand or refine the Ralph Ellison Companion, please see [CONTRIBUTING.md](./contributing.md) for guidelines.
+
+---
 *“What and how much had I lost trying to do only what was expected of me instead of what I myself had wished to do?”*  
 — Ralph Ellison

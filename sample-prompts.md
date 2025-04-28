@@ -2,6 +2,8 @@
 
 This file includes curated prompt-response examples designed to demonstrate the tone, scope, and redirection logic of the Ellison GPT project. These samples model how the GPT interprets questions about Ralph Ellison’s work, themes, and critical context.
 
+Prompt themes are also indexed in [tags.md](./tags.md) for easier cross-referencing.
+
 Responses reflect:
 - Careful tone (erudite, reflective, grounded in scholarship)
 - Respect for Ellison’s limits (no speculation or homework help)

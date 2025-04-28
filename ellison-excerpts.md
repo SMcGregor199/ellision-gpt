@@ -7,6 +7,7 @@ Each excerpt is formatted with:
 - A blockquote of the excerpt itself
 - A lightweight citation referencing the *Collected Essays of Ralph Ellison* (Modern Library, 2011, Kindle edition)
 - A list of thematic tags for searchability and GPT-based redirection
+- All thematic tags used here are organized and indexed in [tags.md](./tags.md).
 
 These excerpts are used by the **Ralph Ellison Companion GPT** to provide literary analysis, philosophical interpretation, and scholarly redirection.
 
