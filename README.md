@@ -8,6 +8,13 @@ It is not a substitute for Ellison’s words—but a means of listening differen
 
 ---
 
+## 🚧 Project Status
+
+The Ralph Ellison Companion is approximately 97% complete.  
+Version 1.0 is scheduled for soft launch in May 2025.  
+If you're interested in testing, contributing, or following the project’s evolution, feel free to star the repo or reach out!
+
+---
 ## 🔍 Features
 
 - Literary analysis through an erudite, professorial tone  
