@@ -42,7 +42,7 @@ For full citations and source tracking, see `citations.md`.
 > "I am an invisible man. No, I am not a spook like those who haunted Edgar Allan Poe; nor am 
 > I one of your Hollywood-movie extoplasms. I am a man of substance, of flesh and bone, fiber
 > and liquids -- and I might even be said to possess a mind. I am invisible, understand, simply
-> because poeople refuse to see me. Like the bodiless heads you see sometimes in circus sideshows,
+> because people refuse to see me. Like the bodiless heads you see sometimes in circus sideshows,
 > it is as though I have been surrounded by mirrors of hard, distorting glass. When they approach
 > me they see only my surroundings, themselves, or figments of their imagination -- indeed, everything
 > and anything except me." — Ralph Ellison, "Prologue," *Invisible Man*, Modern Library, 1995. Kindle edition.
@@ -52,7 +52,7 @@ For full citations and source tracking, see `citations.md`.
 ### *Invisible Man* – Excerpt 2
 
 > "In my hole in the basement there are exactly 1,369 lights. I've wired the entire ceiling, every inch of
-> it. And not with flourescent bulbs, but with the older, more-expensive-to-operate kind, the filament type.
+> it. And not with fluorescent bulbs, but with the older, more-expensive-to-operate kind, the filament type.
 > An act of sabotage, you know. I've already begun to write the wall. A junk man I know, a man of vision,
 > has supplied me with wire and sockets. Nothing, storm or flood, must get in the way of our need for light
 > and ever more and brighter light. The truth is the light and the light is the truth. When I finish all
