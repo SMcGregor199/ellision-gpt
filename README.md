@@ -8,6 +8,14 @@ It is not a substitute for Ellison’s words—but a means of listening differen
 
 ---
 
+## 🚀 Project Status
+
+- **Current Version:** 1.0 (May 2025)
+- **Last Live GPT Update:** (April 29th, 2025)
+- **Note:** Updates to this repository are manually integrated into the live GPT. The active version may occasionally lag behind the repository by a few days. See [instructions.md](./instructions.md) for the current guidance reflected in the live version.
+
+---
+
 ## 🚧 Project Status
 
 The Ralph Ellison Companion is approximately 97% complete.  
@@ -92,3 +100,5 @@ If you're interested in helping expand or refine the Ralph Ellison Companion, pl
 ---
 *“What and how much had I lost trying to do only what was expected of me instead of what I myself had wished to do?”*  
 — Ralph Ellison
+
+> **Version:** 1.0 — May 2025
