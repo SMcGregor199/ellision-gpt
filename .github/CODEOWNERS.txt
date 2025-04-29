@@ -1,1 +1,2 @@
-@SMcGregor199
+# Global owner for everything
+* @SMcGregor199
